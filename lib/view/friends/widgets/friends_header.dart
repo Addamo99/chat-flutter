@@ -2,7 +2,6 @@ import 'package:chat/view/friends/widgets/avatar_button.dart';
 import 'package:chat/view/friends/widgets/back_icon.dart';
 import 'package:chat/view/widgets/popup_menu.dart';
 import 'package:chat/view/friends/widgets/search_widget.dart';
-import 'package:chat/view/utils/constants.dart';
 import 'package:chat/view/utils/device_config.dart';
 import 'package:flutter/material.dart';
 
@@ -34,8 +33,8 @@ class FriendsHeader extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: <Widget>[
               Image(
-                image: AssetImage('assets/images/chatlogo.png'),
-                height: deviceData.screenHeight * 0.06,
+                image: AssetImage('assets/images/talkup2.png'),
+                height: deviceData.screenHeight * 0.05,
                 
               ),
               AvatarButton(

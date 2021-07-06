@@ -47,4 +47,6 @@ flutter:
     - family: Arial Rounded
       fonts:
         - asset: assets/fonts/ARLRDBD.TTF
-
+    - family: Ubuntu
+      fonts:
+        - asset: assets/fonts/Ubuntu-Medium.ttf

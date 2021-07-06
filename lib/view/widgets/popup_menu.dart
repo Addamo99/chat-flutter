@@ -43,6 +43,7 @@ class PopUpMenu extends StatelessWidget {
                 child: Text(
                   "Se déconnecter",
                   style: TextStyle(
+                    fontFamily: 'Ubuntu',
                     color: Colors.white,
                   ),
                 ),

@@ -32,6 +32,7 @@ class RoundedButton extends StatelessWidget {
             child: Text(
               text,
               style: TextStyle(
+                  fontFamily: 'Ubuntu',
                   fontSize: _deviceData.screenHeight * 0.02,
                   color: Colors.white),
             ),

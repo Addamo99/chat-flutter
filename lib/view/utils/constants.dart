@@ -12,11 +12,11 @@ const kInputFillColor = Color(0xFFEEEEEE);
 
 const kInputTitleColor = Color(0xFF3F4373);
 const kTitleTextStyle = TextStyle(
-  fontFamily: 'Arial Rounded',
+  fontFamily: 'Ubuntu',
   color: Colors.white,
 );
 const kArialFontStyle = TextStyle(
-  fontFamily: 'Arial Rounded',
+  fontFamily: 'Ubuntu',
 );
 
 const kSelectedTab = kBackgroundColor;
